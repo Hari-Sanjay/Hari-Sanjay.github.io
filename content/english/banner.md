@@ -7,7 +7,7 @@ bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
 - "Film Maker"
-- "Directory"
+- "Director"
 - "Content Writer"
 
 # slider background image loop
