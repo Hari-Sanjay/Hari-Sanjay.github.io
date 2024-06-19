@@ -1,4 +1,4 @@
----
+<!-- ---
 title : "SERVICES"
 service_list:
 # service item loop
@@ -23,4 +23,4 @@ service_list:
 custom_class: "" 
 custom_attributes: "" 
 custom_css: ""
----
+--- -->

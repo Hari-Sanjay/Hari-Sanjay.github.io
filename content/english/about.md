@@ -40,14 +40,26 @@ skill:
       percentage : "75%"
       
     # skill item loop
-    - name : "Keyboard"
+    - name : "Direction"
       percentage : "85%"
       
     # skill item loop
-    - name : "VFX"
+    - name : "Editing"
+      percentage : "80%"
+      
+    # skill item loop
+    - name : "Cinematography"
+      percentage : "80%"
+
+    # skill item loop
+    - name : "Story Writer"
       percentage : "80%"
       
 
+    # skill item loop
+    - name : "Content Writing"
+      percentage : "80%"
+      
 
 
 # custom style

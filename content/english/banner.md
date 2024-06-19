@@ -1,14 +1,14 @@
 ---
-title : "I'm Hari"
+title : "I'm Hari Sanjay"
 # full screen navigation
 first_name : "Hari"
 last_name : "Sanjay"
 bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
-- "IoT engineer"
-- "ROS developer"
-- "Linux enthusiast"
+- "Film Maker"
+- "Directory"
+- "Content Writer"
 
 # slider background image loop
 slider_images:
