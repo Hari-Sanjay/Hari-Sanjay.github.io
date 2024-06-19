@@ -1,8 +1,8 @@
 ---
-title : "I'm Gokulakrishnan"
+title : "I'm Hari"
 # full screen navigation
-first_name : "D P"
-last_name : "GokulaKrishnan"
+first_name : "Hari"
+last_name : "Sanjay"
 bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
