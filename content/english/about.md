@@ -45,20 +45,20 @@ skill:
       
     # skill item loop
     - name : "Editing"
-      percentage : "80%"
+      percentage : "73%"
       
     # skill item loop
     - name : "Cinematography"
-      percentage : "80%"
+      percentage : "90%"
 
     # skill item loop
     - name : "Story Writer"
-      percentage : "80%"
+      percentage : "87%"
       
 
     # skill item loop
     - name : "Content Writing"
-      percentage : "80%"
+      percentage : "94%"
       
 
 
@@ -68,4 +68,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-Dedicated film student on a quest to deepen my understanding of the cinematic world. <br>Passionate about the art of storytelling through film. <br>Fascinated by how cinema can capture emotions, provoke thought, and spark conversations <br>Stay connected ........😊
+Dedicated film student on a quest to deepen my understanding of the cinematic world. <br>Passionate about the art of storytelling through film. <br>Fascinated by how cinema can capture emotions, provoke thought, and spark conversations <br>Stay connected 😊
